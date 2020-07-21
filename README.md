@@ -1,2 +1,2 @@
 # My New  Blog
-Created using Python and Flask
+Created using Python 3 and the Flask framework
